@@ -1,7 +1,10 @@
-I studied **C language** and a little bit **Shell** in Piscine November 2023 in 42 Prague.
+I studied the **C language** and a little bit of **Shell** during the Piscine in November 2023 at 42 Prague School.
 
-During the Piscine we learned how to implement different functions from <string.h>.
-We weren't allowed to have `printf()` in our code, so instead of this we actively use `write()` for better understanding printing processes.
+Although the Piscine started with an introduction to Shell and simple code tasks in C, it became pretty tough soon with topics like Recursion, Pointers and Memory allocation, Header files, and Makefiles. On top of that, the goal of the Piscine was to teach us how standard libraries in C work by forcing us to implement many of the library functions ourselves. For example, it was prohibited to use `printf()`, and we had to use the `write()` function with a specific file descriptor. We had to implement our own functions to print characters, strings, and numbers.
+
+It gave me an awesome overview of how programs look at a deeper level. I studied new concepts and practiced how to solve tasks without guidance from the teacher because there wasn't any! Instead, I collaborated with my colleagues, who were all Piscine students.
+
+During that time, I completed the following tasks:
 
 # [Shell00](https://github.com/evsyuann/Piscine/tree/main/shell00) Introduction to Shell
 _______
@@ -25,7 +28,7 @@ _______
 | [ex02](https://github.com/evsyuann/Piscine/tree/main/shell01/ex02)  | find_sh  | A command line that searches for all file names that end with ".sh" (without quotation marks) in the current directory and all its sub-directories. It should display only the file names without the .sh|
 | [ex03](https://github.com/evsyuann/Piscine/tree/main/shell01/ex03)  | count_files  | A command line that counts and displays the number of regular files and directories in the current directory and all its sub-directories. It should include ".", the starting directory |
 | [ex04](https://github.com/evsyuann/Piscine/tree/main/shell01/ex04)  | MAC  | A command line that displays your machine’s MAC addresses. Each address must be followed by a line break |
-| [ex05](https://github.com/evsyuann/Piscine/tree/main/shell01/ex05)  | "\?$*'MaRViN'*$?\"  | A file containing only "42", and NOTHING else |
+| [ex05](https://github.com/evsyuann/Piscine/tree/main/shell01/ex05)  | "\?$*'MaRViN'*$?\"  | A file containing only "42", and nothing else |
 
 # [C00](https://github.com/evsyuann/Piscine/tree/main/c00) Introduction to C
 _______
@@ -99,7 +102,7 @@ _______
 | [ex06](https://github.com/evsyuann/Piscine/tree/main/c05/ex06)  | ft_is_prime  | A function that returns 1 if the number given as a parameter is a prime number, and 0 if it isn’t |
 | [ex07](https://github.com/evsyuann/Piscine/tree/main/c05/ex07)  | ft_find_next_prime  | A function that returns the next prime number greater or equal to the number given as argument |
 
-# [C06](https://github.com/evsyuann/Piscine/tree/main/c06) Introduction to arguments
+# [C06](https://github.com/evsyuann/Piscine/tree/main/c06) Introduction to Arguments
 _______
 | Exercise  | Function name | Description |
 | ------------- | ------------- | ------------- |
@@ -116,7 +119,7 @@ _______
 | [ex02](https://github.com/evsyuann/Piscine/tree/main/c07/ex03)  | ft_ultimate_range  | A function ft_ultimate_range which allocates and assigns an array of ints. This int array should contain all values between min and max |
 | [ex03](https://github.com/evsyuann/Piscine/tree/main/c07/ex04)  | ft_strjoin  | A function that will concatenate all the strings pointed by strs separated by sep |
 
-# [C08](https://github.com/evsyuann/Piscine/tree/main/c08) Introduction to header files
+# [C08](https://github.com/evsyuann/Piscine/tree/main/c08) Introduction to Header files
 _______
 | Exercise  | Function name | Description |
 | ------------- | ------------- | ------------- |
