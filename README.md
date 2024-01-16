@@ -17,7 +17,7 @@ _______
 | [ex04](https://github.com/evsyuann/Piscine/tree/main/shell00/ex04)  | midLS  | Placing the command line that will list all files and directories in your current directory, separated by a comma and a space, by order of modification date |
 | [ex05](https://github.com/evsyuann/Piscine/tree/main/shell00/ex05)  | git_commit  | A shell script that displays the ids of the last 5 commits of your git repository |
 | [ex06](https://github.com/evsyuann/Piscine/tree/main/shell00/ex06)  | git_ignore  | A short shell script that lists all the existing files ignored by your git repository |
-| [ex07](https://github.com/evsyuann/Piscine/tree/main/shell00/ex07)  | b | Found file b from diff a b > sw.diff |
+| [ex07](https://github.com/evsyuann/Piscine/tree/main/shell00/ex07)  | b | Using patch file to find b |
 | [ex08](https://github.com/evsyuann/Piscine/tree/main/shell00/ex08)  | clean | A command line that will search for all files - in the current directory as well as in its sub-directories - with a name ending by ~, or a name that start and end by # |
 
 # [Shell01](https://github.com/evsyuann/Piscine/tree/main/shell01) More Shell
